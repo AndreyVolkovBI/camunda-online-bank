@@ -1,13 +1,13 @@
-package com.reunico.demo;
+package tech.volkov.onlinebank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class OnlineBankApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(Application.class);
+    SpringApplication.run(OnlineBankApplication.class);
   }
 
 }
